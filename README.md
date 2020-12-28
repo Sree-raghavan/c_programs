@@ -8,3 +8,4 @@
 ### 6.Bresenham.c       - Line drawing using Bresenham's line drawing algorithm
 ### 7.fibonacci_factorial  - To print fibonacci series till a N length alogn with corresponding factorial
 ### 8.Toggle_character    - To toggle the characters in a given string.
+### 9.FIREWORKS.c         - To display fire works
